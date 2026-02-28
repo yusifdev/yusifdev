@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-                                             A Frontend developer from Baku
 
 <!--
 
