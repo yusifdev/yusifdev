@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Typescript, React
+- 🌱 I’m currently learning Machine Learning
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ...
 - Gmail - mirzequliyevyusif@gmail.com
-- Linkedin - https://www.linkedin.com/in/yusif-mirzequliyev-34a454244/
+- Linkedin - https://www.linkedin.com/in/yusifmirzaguliyev/
 
